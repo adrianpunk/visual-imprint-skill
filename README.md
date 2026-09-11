@@ -252,8 +252,15 @@ Skill 会生成：
 - 客户端具备图像生成和参考图能力；否则 Skill 只能输出提示词与保存计划。
 - 使用网页文章时，Agent 需要能够获取完整正文。
 
-## 授权
+## License
 
-工作流、脚本和文档按 [MIT License](LICENSE) 发布。用户上传的照片、生成角色和文章插图不属于仓库内容，其权利由用户和所使用的图像服务条款决定。
+Visual Imprint Skill 采用个人非商用 + 商业付费双轨授权：
+
+- 个人非商用：可按照 [Visual Imprint Skill Personal Use License 1.0](./LICENSE-PERSONAL.md) 免费使用；
+- 商业使用：必须事先取得权利人的书面商业授权，并支付适用的许可费用。申请流程见 [Commercial Licensing](./COMMERCIAL-LICENSE.md)，联系邮箱为 `adrian.pduck@gmail.com`。
+
+许可入口见 [LICENSE](./LICENSE)。此前已经按照 MIT License 发布的版本继续适用其原有 MIT License；历史协议见 [LICENSE-MIT-LEGACY](./LICENSE-MIT-LEGACY)。
+
+第三方素材不因本仓库的许可声明而获得重新授权，详见 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)。
 
 Punk 固定角色案例版见 [`punk-ip-illustrations`](https://github.com/adrianpunk/punk-ip-illustrations)。
